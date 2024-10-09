@@ -1,26 +1,26 @@
-# Proyecto Control de acceso
+# Proyecto de Control de Acceso
 
-Bienvenido al repositorio del Proyecto Control de acceso. Este repositorio está destinado a almacenar las versiones de lanzamiento (releases) del proyecto. Aquí encontrarás los archivos binarios y APKs de las versiones estables del proyecto.
+¡Bienvenido al repositorio del **Proyecto de Control de Acceso**! Aquí encontrarás las versiones oficiales (releases) del proyecto, incluyendo las APKs listas para descargar.
 
 ## Información Importante
 
-- **Solo Releases:** En este repositorio, solo se subirán versiones oficiales del proyecto como releases. No se subirán archivos de desarrollo, pruebas o versiones intermedias aquí.
-- **Acceso a Releases:** Las releases están disponibles para descarga y uso, y solo los usuarios con acceso al repositorio podrán ver y descargar estos archivos.
+Siempre utilizar la **última versión** disponible, ya que se irán subiendo nuevas actualizaciones con mejoras y correcciones.
 
 ## Cómo Acceder a las Releases
 
-1. **Ir a la Sección de Releases:**
-   - Navega a la pestaña "Releases" en la parte superior del repositorio para ver las versiones disponibles.
+1. **Visita la Sección de Releases:**
+   - Ve a la pestaña "Releases" en la parte superior de este repositorio para consultar las versiones disponibles.
 
 2. **Descargar Archivos:**
-   - Haz clic en la versión deseada para ver los detalles y descargar el archivo correspondiente (por ejemplo, el archivo APK).
+   - Selecciona la última versión y descarga el archivo APK correspondiente.
 
-3. **Requisitos de Acceso:**
-   - Asegúrate de tener acceso adecuado al repositorio. Los archivos en este repositorio solo están disponibles para usuarios con permisos para ver el contenido privado.
+3. **Requisitos para el Acceso:**
+   - La aplicación requiere autenticación. Puedes registrarte y acceder a una licencia de prueba.
 
-## Contacto
+## Contacto y Soporte
 
-Para cualquier pregunta o soporte adicional, puedes ponerte en contacto con el equipo de desarrollo a través de [control.acceso.chile@gmail.com].
+Si tienes alguna pregunta o necesitas soporte adicional, no dudes en contactarnos a través de nuestro correo: [control.acceso.mdd@gmail.com](mailto:control.acceso.mdd@gmail.com).
 
-Gracias por tu interés en el Proyecto Control de acceso.
+Para más detalles sobre la aplicación, visita mi [perfil de LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7238716421537505280/) donde explico el proyecto con mayor profundidad.
 
+Gracias por tu interés en el **Proyecto de Control de Acceso**.
